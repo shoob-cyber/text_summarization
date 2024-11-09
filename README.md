@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your text summarization project on GitHub:
-
----
-
 # Text Summarization Web App
 
 This is a Flask-based web application designed to summarize large bodies of text in both **English** and **Hindi**. The app uses **Natural Language Processing (NLP)** techniques, including **NLTK** and custom algorithms, to generate concise and meaningful summaries. The application features a simple and user-friendly interface, allowing users to quickly extract key information from lengthy texts.
@@ -112,6 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **NLTK** for the powerful NLP tools.
 - Contributors and open-source libraries for text processing and summarization.
 
----
-
-You can customize the sections to better fit your project if needed!
